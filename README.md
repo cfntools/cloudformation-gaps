@@ -1,5 +1,7 @@
-# cloudformation-gaps
+# Cloudformation Gaps
 Project to track CloudFormation Coverage
+
+see https://github.com/cfntools/cloudformation-gaps/projects/1
 
 ## Project Columns
 - Found: In gap in cloudformation coverage has been identified
