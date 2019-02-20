@@ -1,5 +1,7 @@
 # Cloudformation Gaps
-Project to track CloudFormation Coverage
+Project to track CloudFormation Coverage.
+
+*This project isn't tracked by AWS.* You can add 👍 to an issue to show you're having the same problem, but the only way to add weight is to *open a feature request via support or your account team* (if you have access to either of those).
 
 see https://github.com/cfntools/cloudformation-gaps/projects/1
 
