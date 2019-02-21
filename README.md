@@ -1,5 +1,5 @@
 # Cloudformation Gaps
-Project to track CloudFormation Coverage.
+Not all services support CloudFormation, or support the same attributes in CloudFormation as in the API. This project trys to track services and attributes that haven't been added to CloudFormation (yet). If we know about a Custom Resource that does support the missing feature, we link to it in the issue.
 
 **This project isn't tracked by AWS.** You can add 👍 to an issue to show you're having the same problem, but the only way to add weight is to **open a feature request via support or your account team** (if you have access to either of those).
 
